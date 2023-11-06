@@ -1,1 +1,1 @@
-# Galytix
+I initialized a WordEmbedding class, loaded Word2Vec embeddings from a file, and saved them as a CSV. Then, I attempted to calculate the similarity between phrases using word embeddings, but the implementation of similarity calculation is pending. Finally, I defined a main function to execute these tasks, including loading phrases from a CSV file and running the similarity calculation for each pair. 
